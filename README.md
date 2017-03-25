@@ -1,4 +1,4 @@
-# electionaudits
+# electionaudits-data
 Data related to election auditing, including post-election risk-limiting audits of ballot tabulation outcomes.
 
 The data here helps post-election auditing systems by providing data on what kinds of data are available for audit (for example, Cast Vote Records, precinct results, county results, batch results).

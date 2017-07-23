@@ -9,4 +9,5 @@ See also [The OpenElections Project](https://github.com/openelections/), with a 
 For related software, see
 * [ColoradoRLA](https://github.com/FreeAndFair/ColoradoRLA/)
 * [OpenRLA](https://github.com/FreeAndFair/OpenRLA)
+* [audit_cvrs](https://github.com/nealmcb/audit_cvrs)
 * [electionaudits](https://github.com/nealmcb/electionaudits)

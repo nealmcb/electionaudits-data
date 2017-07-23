@@ -5,3 +5,8 @@ The data here helps post-election auditing systems by providing data on what kin
 It also helps reconcile contest and candidate names from election results data in different jurisdictions, in cases where they are presented with different names.
 
 See also [The OpenElections Project](https://github.com/openelections/), with a wealth of election results data.
+
+For related software, see
+* [ColoradoRLA](https://github.com/FreeAndFair/ColoradoRLA/)
+* [OpenRLA](https://github.com/FreeAndFair/OpenRLA)
+* [electionaudits](https://github.com/nealmcb/electionaudits)
